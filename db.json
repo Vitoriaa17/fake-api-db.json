@@ -84,13 +84,11 @@
     }
   ],
   "Pergunta1": [
-     {
-     "pergunta": "Qual é o principal fator de risco para o desenvolvimento do câncer de pulmão?",
+     {"pergunta": "Qual é o principal fator de risco para o desenvolvimento do câncer de pulmão?",
       "alternativa1": "Consumo excessivo de álcool",
       "alternativa2": "Dieta pobres em fibras",
       "alternativa3": "Tabagismo",
       "alternativa4": "Sedentarismo",
-      "alternativacorreta": "Tabagismo"
-    }
+      "alternativacorreta": "Tabagismo"}
   ]
 }
