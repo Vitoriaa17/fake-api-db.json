@@ -1,0 +1,87 @@
+{
+  "explicacaoPerguntas1": [
+     {
+     "pergunta": "Qual é o principal fator de risco para o desenvolvimento do câncer de pulmão?",
+      "alternativa1": "Consumo excessivo de álcool",
+      "alternativa2": "Dieta pobres em fibras",
+      "alternativa3": "Tabagismo",
+      "alternativa4": "Sedentarismo",
+      "alternativacorreta": "Tabagismo"
+    },
+    {
+      "pergunta": "Qual é um fator de risco ocupacional para o desenvolvimento do câncer de pulmão?",
+      "alternativa1": "Uso prolongado de computador",
+      "alternativa2": "Exposição ao amianto (asbesto)",
+      "alternativa3": "Trabalhar em locais com ar-condicionado",
+      "alternativa4": "Permanecer muito tempo em pé",
+      "alternativacorreta": "Exposição ao amianto (asbesto)"
+    },
+    {
+     "pergunta": "Qual é um sintoma comum do câncer de pulmão?",
+      "alternativa1": "Dor abdominal frequente",
+      "alternativa2": "Tosse persistente",
+      "alternativa3": "Coceira na pele",
+      "alternativa4": "Visão embaçada",
+      "alternativacorreta": "Tosse persistente"
+    },
+    {
+     "pergunta": " Além do cigarro comum, qual outro produto também está ligado ao aumento do risco de câncer de pulmão?",
+      "alternativa1": "Bebidas energéticas",
+      "alternativa2": "Sal em excesso",
+      "alternativa3": "Cigarro eletrônico",
+      "alternativa4": "Café",
+      "alternativacorreta": "Cigarro eletrônico"
+    },
+    {
+     "pergunta": " O câncer de pulmão pode ser diagnosticado precocemente através de:",
+      "alternativa1": "Exame de urina",
+      "alternativa2": "Tomografia de baixa dose",
+      "alternativa3": "Teste de glicemia",
+      "alternativa4": "Exame de colesterol",
+      "alternativacorreta": "Tomografia de baixa dose"
+    }
+  ],
+  "explicacaoPerguntas2": [
+     {
+     "pergunta": "Qual das opções abaixo é um tipo de tratamento para o câncer de pulmão?",
+      "alternativa1": "Quimioterapia",
+      "alternativa2": "Massagem terapêutica",
+      "alternativa3": "Terapia com florais",
+      "alternativa4": "Acupuntura",
+      "alternativacorreta": "Quimioterapia"
+    },
+    {
+      "pergunta": "Um sintoma avançado do câncer de pulmão pode incluir:",
+      "alternativa1": "a) Febre alta e súbita",
+      "alternativa2": "Dor no peito ao respirar profundamente",
+      "alternativa3": "Dor nos pés",
+      "alternativa4": "Fome constante",
+      "alternativacorreta": "Dor no peito ao respirar profundamente"
+    },
+    {
+     "pergunta": " O que pode ajudar na prevenção do câncer de pulmão?",
+      "alternativa1": "Parar de fumar",
+      "alternativa2": "Tomar antibióticos regularmente",
+      "alternativa3": "Dormir mais de 10 horas por dia",
+      "alternativa4": "Evitar alimentos com glúten",
+      "alternativacorreta": "Parar de fumar"
+    },
+    {
+     "pergunta": "Em casos graves, o câncer de pulmão pode se espalhar para:",
+      "alternativa1": "Orelhas",
+      "alternativa2": "Fígado e cérebro",
+      "alternativa3": "Unhas",
+      "alternativa4": "Estômago apenas",
+      "alternativacorreta": "Fígado e cérebro"
+    },
+    {
+     "pergunta": " O câncer de pulmão é mais comum em::",
+      "alternativa1": "Crianças",
+      "alternativa2": "Mulheres jovens",
+      "alternativa3": "Adultos fumantes com mais de 50 anos",
+      "alternativa4": "Atletas profissionais",
+      "alternativacorreta": "Adultos fumantes com mais de 50 anos"
+    }
+  ]
+}
+
